@@ -49,8 +49,8 @@ export function Footer() {
           </h4>
           <ul className="space-y-2 text-sm">
             <li>Guntur, Andhra Pradesh</li>
-            <li>+91 98765 43210</li>
-            <li>hello@srfoods.in</li>
+            <li>‪+91 97049 45084‬</li>
+            <li>info@srfoodsfarmtohome.in</li>
           </ul>
           <div className="mt-4 flex gap-3">
             {["Instagram", "Facebook", "YouTube"].map((s) => (
