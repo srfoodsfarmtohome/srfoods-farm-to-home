@@ -52,7 +52,7 @@ export default function ContactPage() {
             <InfoCard
               icon="📞"
               title="Call"
-              lines={["+91 97049 45084‬", "Mon–Sat · 9am to 7pm"]}
+              lines={["+91 9704945084‬", "Mon–Sat · 9am to 7pm"]}
             />
             <InfoCard
               icon="✉️"
