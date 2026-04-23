@@ -47,17 +47,17 @@ export default function ContactPage() {
             <InfoCard
               icon="📍"
               title="Visit us"
-              lines={["SR Foods – Farm to Home", "Brodipet, Guntur", "Andhra Pradesh, India 522002"]}
+              lines={["4-164", "Gotu vari veedi" , "Rentachintala", "Rentala", "Palnadu" , "Andhra Pradesh", "522421"]}
             />
             <InfoCard
               icon="📞"
               title="Call"
-              lines={["+91 98765 43210", "Mon–Sat · 9am to 7pm"]}
+              lines={["+91 97049 45084‬", "Mon–Sat · 9am to 7pm"]}
             />
             <InfoCard
               icon="✉️"
               title="Email"
-              lines={["hello@srfoods.in", "orders@srfoods.in"]}
+              lines={["info@srfoodsfarmtohome.in"]}
             />
             <div className="rounded-3xl bg-maroon p-8 text-cream">
               <h3 className="font-display text-xl font-bold text-turmeric">
